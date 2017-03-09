@@ -1,0 +1,59 @@
+p.txtcentrado {
+text-align:center;
+}
+h1{
+	font-family: timesrowman;,serif;
+	font-weight: normal;
+	font-size: 50px;
+	
+}
+h2{
+	font-family: normal;,serif;
+	font-weight: normal;
+	font-size: 30px;
+	color:#7B2A8B;
+	
+}
+p.txtcolor{
+	color: #C0C0C0;
+}
+
+hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+#idfont{
+	background-color:#14EBE0; 
+}
+
+
+.center{
+	position:absolute;
+	left:400px;
+	right:0px
+	width:2000px;
+	border: 3px solid #000000;
+	padding:10px;
+}
+
+#fontbar{
+	background-color: #40B615 ;
+}
+
+#contenedor{
+text-align: left;
+width: 500px;
+margin: auto;}
+
+#lateral{
+width: 180px;  /*Este será el ancho que tendrá tu columna*/
+background-color: #CCCCCC;  /*Aquí pon el color del fondo que quieras para este lateral*/
+float:left; /*Aqui determinas de lado quieres quede esta "columna" */
+}
+
+#principal{
+margin-left:190px; /*Este margen hace que no se encime el contenido en tu menúlateral, es     importante que pongas un pocos pixeles más que el ancho  de tu columna lateral*/
+background-color: #FFFFFF;
+border:#000000 1px solid; /*ponemos un dorde para que se vea bonito*/
+}

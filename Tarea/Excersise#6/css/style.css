@@ -1,0 +1,61 @@
+p.txtcentrado {
+text-align:center;
+}
+
+header h2{
+	font-family: normal;,serif;
+	font-weight: normal;
+	
+}
+p.txtcolor{
+	color: #C0C0C0;
+}
+
+hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+#idfont{
+	background-color:#F4E9E9; 
+}
+.left {
+    position: absolute;
+    left : 0px;
+    width: 500px;
+    border: 0px solid;
+    padding: 10px;
+
+}
+
+
+.right {
+    position: absolute;
+    right : 0px;
+    width: 500px;
+    border: 0px solid;
+    padding: 10px;
+}
+#fontnav{
+	background-color: #F4E9E9 ;
+}
+
+hr.v{
+width: 1px;
+height: 500px;
+lighting-color: blue;
+ overflow: auto;
+}
+
+td {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0 20px;
+    text-align: justify;
+    vertical-align: top;
+    width: 50%;
+}
+
+td.first {
+    border-right: 5px solid #4BB495  ;
+}

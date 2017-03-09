@@ -1,0 +1,30 @@
+
+p.txtcentrado {
+text-align:center;
+font-family: cursive;,serif;
+
+}
+p.h2{
+	text-align:center;
+	color: #1B29F5;
+}
+
+}
+header h2{
+	
+	font-weight: normal;
+
+}
+p.txtcolor{
+	color: #C0C0C0;
+}
+
+hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+#idfont{
+	background-color:#F59A1B; 
+}
+

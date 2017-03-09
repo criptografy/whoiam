@@ -1,0 +1,62 @@
+p.txtcentrado {
+text-align:center;
+}
+
+header h2{
+	font-family: cursive;,serif;
+	font-weight: normal;
+	
+}
+p.txtcolor{
+	color: #C0C0C0;
+}
+
+hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+#idfont{
+	background-color:#5BC271; 
+}
+.right: {
+	position:absolute;
+	left:100px;
+	right:0px;
+	width:400px;
+	border: 3px solid #F46B36;
+	padding:10px;
+
+}
+.left{
+	position:absolute;
+	left:400px;
+	width:800px;
+	border: 2px solid #F46B36;
+	padding:10px;
+}
+#fontnav{
+	background-color: #F51317 ;
+}
+
+hr.d{
+position:absolute;
+left:200px;
+width: 1px;
+height: 500px;
+lighting-color: blue;
+ overflow: auto;
+}
+
+td {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0 20px;
+    text-align: justify;
+    vertical-align: top;
+    width: 50%;
+}
+
+td.first {
+    border-right: 5px solid #4BB495  ;
+}
